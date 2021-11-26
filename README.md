@@ -1,2 +1,2 @@
-# backend-aution
-A backend service builds with spring boot for auction system.
+# Backend Aution System
+A backend service builds with Spring Boot Java for auction system.
